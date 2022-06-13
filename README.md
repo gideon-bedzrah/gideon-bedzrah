@@ -3,13 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-I'm a programmer. I like getting things done quickly. A fully functioning app should not take more than a week to build and deploy 🤷🏾‍♂️
+I'm a programmer. I like getting things done quickly.
 
 I believe a clean and minimalist UI is the best way to communicate your apps functionality to users
 
 # Agile and Srum
+A fully functioning app should not take more than a week to build and deploy 🤷🏾‍♂️
+
+# About me
 - 🌱 I’m currently learning c# and dotnet
-- 
 - ⚡ Fun fact: I love skateboarding 
 <!--
 **gideon-bedzrah/gideon-bedzrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
