@@ -1,23 +1,29 @@
-### Hi there 👋
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+I'm a programmer. I like getting things done quickly. A fully functioning app should not take more than a week to build and deploy 🤷🏾‍♂️
+
+I believe a clean and minimalist UI is the best way to communicate your apps functionality to users
+
+# Agile and Srum
+- 🌱 I’m currently learning c# and dotnet
+- 
+- ⚡ Fun fact: I love skateboarding 
 <!--
 **gideon-bedzrah/gideon-bedzrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 ### :hammer_and_wrench: Languages and Tools :
