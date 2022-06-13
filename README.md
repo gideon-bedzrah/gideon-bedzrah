@@ -3,12 +3,21 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+# Summary
 I'm a programmer. I like getting things done quickly.
 
 I believe a clean and minimalist UI is the best way to communicate your apps functionality to users
 
 # Agile and Srum
 A fully functioning app should not take more than a week to build and deploy 🤷🏾‍♂️
+
+# Projects
+Most of my projects are under NDAs. However some them include building end to end applications. 
+
+- built a delivery app for picking up and delivering packages to customers. Find screenshot below: 
+
+![Group 3 Copy](https://user-images.githubusercontent.com/98533220/173361057-dfd5db3c-7a1a-43b9-8061-e4851c5519ee.png)
+
 
 # About me
 - 🌱 I’m currently learning c# and dotnet
