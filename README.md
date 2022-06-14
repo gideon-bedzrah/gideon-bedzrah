@@ -16,8 +16,6 @@ Most of my projects are under NDAs. However some them include building end to en
 
 - built a delivery app for picking up and delivering packages to customers. Find screenshot below: 
 
-![Group 3 Copy](https://user-images.githubusercontent.com/98533220/173361057-dfd5db3c-7a1a-43b9-8061-e4851c5519ee.png)
-
 
 # About me
 - 🌱 I’m currently learning c# and dotnet
